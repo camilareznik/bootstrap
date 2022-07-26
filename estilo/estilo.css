@@ -11,3 +11,58 @@ header {
 .hheader {
     color: white;
 }
+
+.imagenesComplejo {
+    text-align: center;
+}
+
+.tituloPrincipal {
+    color: rgb(68, 18, 68);
+    text-align: center;
+    font-size: 70px;
+    background-color:rgb(199, 133, 199);
+}
+
+.informacionComplejo {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+h2 {
+    color: rgb(68, 18, 68);
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(199, 133, 199);
+}
+
+.tiposDeCabañas {
+    display: flexbox;
+    justify-content: center;
+}
+
+.card-title {
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+
+.card-text {
+    font-size: 20px;
+    color: black;
+}
+
+.formatoLista {
+    color: black;
+    font-size: 20px;
+}
+
+.formatoLista:visited {
+    color: black;
+}
+
+.formatoLista:hover {
+    color:rgb(68, 18, 68);
+}
