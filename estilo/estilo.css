@@ -1,0 +1,13 @@
+.imagenLogo {
+    width: 150px;
+    border-radius: 200px;
+}
+
+header {
+    background-image: linear-gradient(to right, rgb(199, 133, 199), rgb(134, 40, 134));
+    font-size: 40px;
+}
+
+.hheader {
+    color: white;
+}
