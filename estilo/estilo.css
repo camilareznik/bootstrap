@@ -1,6 +1,15 @@
+
+img:hover {
+    width: 700px;
+}
+
 .imagenLogo {
     width: 150px;
     border-radius: 200px;
+}
+
+.imagenLogo:hover{
+    width: 150px;
 }
 
 header {
@@ -78,3 +87,28 @@ div.listaServicios ul {
     align-items: center;
 }
 
+h3 {
+    color: rgb(68, 18, 68);
+    text-align: center;
+    font-size: 40px;
+}
+
+.experiencia {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.btn {
+    background-color:rgb(199, 133, 199);
+    
+}
+
+.boton {
+    text-align: center;
+}
+
+footer {
+    display: inline;
+    text-align: center;
+}
